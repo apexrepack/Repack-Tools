@@ -30,4 +30,4 @@ Compressor Warning:
 
 "Any Problem Facing You Then Please Contact Now Down Side Link"
 
-[https://www.twitter.com/apexraptor2022](url)
+https://www.twitter.com/apexraptor2022
