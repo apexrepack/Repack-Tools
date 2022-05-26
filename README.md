@@ -1,5 +1,4 @@
-                                           APEX Repack Tools
-
+                                           APEX Repack Tools v2.0.2.2
 Repack Tools Changelog:
 
 - Added Compressor Support.
