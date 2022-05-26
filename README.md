@@ -28,8 +28,8 @@ Compressor Warning:
 - Don't Any Files/Folder Renamed or Edit Because All Files/Folder Compressor Related.
 - Don't Open/Edit Any Codes In ".bat" Files Because This ".bat" Files Are Compressor Main Program.
 
-Importen Notes:
-- Please Your Downloded .zip File Extract To D:\ Disk Because Compressor All Path Selected In D:\ Disk So Don't Any Other Disk To Extract.
+Important Notes:
+- Please Your Downloaded .zip File Extract To D:\ Disk Because Compressor All Path Selected In D:\ Disk So Don't Any Other Disk To Extract.
 
 "Any Problem Facing You Then Please Contact Now Down Side Link"
 
