@@ -1,6 +1,19 @@
-                                           APEX Repack Tools v2.0.2.2
-Repack Tools Changelog:
+                                           APEX Repack Tools
+********************************************************************************************
+Update Note:
+- New Version Repack Tools v2.1.0.1
+- New Version Compressor v2.1.2.0
+- Redesing Compressor Menus
+- Update Changelog Coming Soon
+- Update Rollout No Specific Time Or Date.
 
+Update Status:
+- Coming Soon
+********************************************************************************************
+
+Old Version Repack Tools Changelog:
+
+- Repack Tools Version v2.0.2.2
 - Added Compressor Support.
 - Added Default GameData Folders.
 - Fixed Repack Script.
@@ -16,6 +29,7 @@ Repack Tools Changelog:
 
 Compressor Changelog:
 
+- Compressor Version v2.0.2.2
 - Added Srep 64bit Compressing Support.
 - Added Time or Date Showing On Compressor Menus.
 - Automatically Removed FreeArc Temp Files.
