@@ -33,6 +33,8 @@ Compressor Warning:
 **************************************************************************************************************************************************
 Important Notes:
 - Please Your Downloaded .zip File Extract To D:\ Disk Because Compressor All Path Selected In D:\ Disk So Don't Any Other Disk To Extract.
+- Main.iss File Any Problem Facing You To Please Fix Use Now.
+- How To Fix Install Right It's Very Easy First Fix.zip File Extract Now Then Main.iss File Copy Now Then My Repack Tools Extracted "D:\APEX\Main.iss" Location To Pasted Now So Simpule.
 **************************************************************************************************************************************************
 "Any Problem Facing You Then Please Contact Now Down Side Link"
 
